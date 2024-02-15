@@ -2,6 +2,8 @@
 ## 一元机场官网/官方地址
 地址： [一元机场](https://xn--4gq62f52gdss.com/) 
 
+推荐机场： [三分机场](https://github.com/a540104911/tuijian)
+
 备用地址： [一元机场2](https://xn--4gq62f52gdss.art/)
 
 备用地址2： [一元机场2](https://miaosu.ws/)
